@@ -62,7 +62,7 @@
   "bugs": "https://github.com/withfig/autocomplete/issues",
   "repository": "https://github.com/withfig/autocomplete",
   "devDependencies": {
-    "@fig/eslint-config-autocomplete": "^1.1.0",
+    "@fig/eslint-config-autocomplete": "^2.0.0",
     "@types/inquirer": "^9.0.2",
     "@types/node": "^18.11.0",
     "@types/progress": "^2.0.3",
