@@ -84,7 +84,7 @@
   },
   "dependencies": {
     "@fig/autocomplete-generators": "^2.0.0",
-    "@fig/autocomplete-helpers": "^1.0.4",
+    "@fig/autocomplete-helpers": "^2.0.0",
     "@types/glob": "^8.0.0",
     "fs": "^0.0.1-security",
     "semver": "^7.3.7",
